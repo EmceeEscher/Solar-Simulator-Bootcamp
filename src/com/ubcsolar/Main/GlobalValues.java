@@ -57,7 +57,7 @@ public class GlobalValues {
 			+ "-click and drage down-right to zoom in specific area" +"\n\n"
 			+ "-CTRL+drag to move the plot" +"\n\n"
 			+ "-click and drage up-left to reset the zoom" +"\n\n"
-			+ "\n" + "ENJOY !"; //TODO
+			+ "\n" + "ENJOY! - signed Hooman"; //TODO
 	
 	/**
 	 * Whether the user has hit 'don't show me again'
