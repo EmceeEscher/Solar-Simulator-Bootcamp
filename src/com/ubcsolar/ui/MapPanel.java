@@ -127,7 +127,7 @@ public class MapPanel extends JPanel implements Listener {
 	}
 
 	private void updateMapLabel(String mapName){
-		label_1.setText(mapName+" hi");		
+		label_1.setText(mapName);		
 	}
 	private void updateReportLabel(String string){
 		lbl_Report.setText(string);

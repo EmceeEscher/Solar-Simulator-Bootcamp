@@ -52,16 +52,14 @@ public class GlobalValues {
 	 * The message shown on any 'advanced' window with a graph, to explain how to navigate
 	 * the charts. 
 	 */
-<<<<<<< HEAD
-	public static final String CHART_TUT_MESSAGE = "gross"; //TODO
-=======
+
 	public static final String CHART_TUT_MESSAGE = "To navigate the plot: \n\n"
 			+ "-zoom in/out with mouse wheel" +"\n\n"
 			+ "-click and drage down-right to zoom in specific area" +"\n\n.\n"
 			+ "-CTRL+drag to move the plot" +"\n\n"
 			+ "-click and drage up-left to reset the zoom" +"\n\n.\n"
 			+ "\n" + "ENJOY !"; //TODO
->>>>>>> b2fd7f36611c12174f714df5e65a46ec149ea12f
+
 	
 	/**
 	 * Whether the user has hit 'don't show me again'
