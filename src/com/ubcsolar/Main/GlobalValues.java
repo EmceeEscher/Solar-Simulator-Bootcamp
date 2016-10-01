@@ -56,7 +56,7 @@ public class GlobalValues {
 			+ "-zoom in/out with mouse wheel" +"\n\n"
 			+ "-click and drage down-right to zoom in specific area" +"\n\n.\n"
 			+ "-CTRL+drag to move the plot" +"\n\n"
-			+ "-click and drage up-left to reset the zoom" +"\n\n.\n"
+			+ "-click and drage up-left to reset the zoom" +"\n\n.....\n"
 			+ "\n" + "ENJOY !"; //TODO
 	
 	/**
