@@ -192,7 +192,7 @@ public class MapAdvancedWindow extends JFrame implements Listener {
 					fc.setCurrentDirectory(defaultDirectory);
 				}
 				
-				fc.addChoosableFileFilter(new FileNameExtensionFilter("Google Map files", "KML", "kml"));
+				fc.addChoosableFileFilter(new FileNameExtensionFilter("Google Map awerghtrewaertr files", "KML", "kml"));
 				fc.setAcceptAllFileFilterUsed(false); //makes the 'kml' one default. 
 				fc.setAcceptAllFileFilterUsed(true);
 				
