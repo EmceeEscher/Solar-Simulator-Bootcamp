@@ -107,7 +107,7 @@ public class CarPanel extends JPanel implements Listener {
 		gbc_btnSettings.gridy = 0;
 		titleAndMenuPanel.add(btnSettings, gbc_btnSettings);
 		
-		JLabel lblCarTitle = new JLabel("CAR");
+		JLabel lblCarTitle = new JLabel("car");
 		lblCarTitle.setFont(new Font("Tahoma", Font.BOLD, 15));
 		lblCarTitle.setHorizontalAlignment(SwingConstants.CENTER);
 		GridBagConstraints gbc_lblCarTitle = new GridBagConstraints();
