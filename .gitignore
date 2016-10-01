@@ -1,6 +1,7 @@
 # Eclipse
 bin/
 .settings/
+.metadata/
 
 # OSX
 .DS_Store
