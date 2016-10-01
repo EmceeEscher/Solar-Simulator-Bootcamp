@@ -52,7 +52,7 @@ public class GlobalValues {
 	 * The message shown on any 'advanced' window with a graph, to explain how to navigate
 	 * the charts. 
 	 */
-	public static final String CHART_TUT_MESSAGE = "To navigate the plot: \n\n"
+	public static final String CHART_TUT_MESSAGE = "Hello! A new message! \n\n To navigate the plot: \n\n"
 			+ "-zoom in/out with mouse wheel" +"\n\n"
 			+ "-click and drage down-right to zoom in specific area" +"\n\n"
 			+ "-CTRL+drag to move the plot" +"\n\n"
